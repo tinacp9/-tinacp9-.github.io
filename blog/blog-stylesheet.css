@@ -1,0 +1,19 @@
+main {
+	font-family: sans-serif;
+	background-color: #afeeee	
+}
+
+div {
+	padding-top: 20px
+
+}
+
+h1, h2, h4 {
+	text-align: center;
+	color: #ff6347
+}
+
+section {
+	color: #4169e1;
+	padding: 20px
+}
